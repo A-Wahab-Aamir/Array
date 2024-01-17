@@ -89,3 +89,6 @@ console.log(ary.slice(2, 4)); //["C", "D"]
 
 //concat
 console.log(ary.concat(["G", "H"])); //["A", "B", "C", "D", "E", "G", "H"]
+
+# for help
+### https://www.scaler.com/topics/javascript/javascript-array/
