@@ -1,14 +1,14 @@
 # WHAT IS ARRAY USING DIAGRAM
-![image](https://github.com/A-Wahab-Aamir/Array/assets/83786802/ee6b2f44-9ae9-47a7-857f-9fa92b2405f1)
+
 ![image](https://github.com/A-Wahab-Aamir/Array/assets/83786802/3ced9b50-b986-4756-a574-78f687d82b51)
 
 
-## What is Array in JavaScript?
+# What is Array in JavaScript?
 JavaScript Array is a data structure that allows you to store and organize multiple values within a single variable. It is a versatile and dynamic object. It can hold various data types, including numbers, strings, objects, and even other arrays. Arrays in JavaScript are zero-indexed i.e. the first element is accessed with an index 0, the second element with an index of 1, and so forth.
 
 
-# Array in JAVASCRIPT
-## METHOD IN JS
+
+# METHOD IN JS
 
 //Example
 var ary = ["A", "B", "C", "D", "E"];
